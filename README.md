@@ -1,4 +1,4 @@
-## ☝️ Após executar o git clone na sua pasta você devera digitar isso no terminal:
+## 👇 Após executar o git clone na sua pasta você devera digitar isso no terminal: 
 ### npm install react-scripts --save
 ⚠️Não se esqueça de que no terminal você deve estar no diretório do projeto, para ter certeza disso digite cd e pressione tab e pressione enter
 # Clique no Link para ir ao meu Notion sobre React 🚀
