@@ -1,0 +1,11 @@
+.NomeHeader{
+    color: white;
+    padding-left: 30px;
+}
+
+.TxtPresenca{
+    background-color: rgba(127, 255, 212, 0.507);
+    border-radius: 10px;
+    width: 491px;
+    font-size: 25px;
+}
