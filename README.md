@@ -1,3 +1,6 @@
+## Para realizar o git clone, entre no terminal e digite 
+### 👉 git clone https://github.com/PedroDiGrazia/Controle-Presenca.git
+
 ## 👇 Após executar o git clone na sua pasta você devera digitar isso no terminal: 
 ### npm install react-scripts --save
 ⚠️Não se esqueça de que no terminal você deve estar no diretório do projeto, para ter certeza disso digite cd e pressione tab e então pressione enter
